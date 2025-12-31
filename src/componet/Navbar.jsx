@@ -30,18 +30,14 @@ function Navbar() {
                     </NavLink>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#">
+                    <NavLink to ={'/about'} className="nav-link" >
                       About
-                    </a>
+                    </NavLink>
                   </li>
-                  <li className="nav-item">
-                    <a className="nav-link" href="#">
-                      Contact
-                    </a>
-                  </li>
-                  <li className="nav-item">
+                  
+                  
                     
-                  </li>
+                  
                 </ul>
               </div>
             </div>

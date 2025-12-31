@@ -51,7 +51,7 @@ function ListEmp() {
                         <td className="text-center">{employe?.Employee_id}</td>
                         <td className="text-center">{employe?.Email}</td>
                         <td className="text-center">{employe?.Designation}</td>
-                        <td className="text-center">{employe?.Performance}</td>
+                        <td className="text-center">{employe?.performance}</td>
                         <td className="text-center">
                           <i
                             className="fa-solid fa-pen-to-square pe-2 cursor-pointer text-sccess pointer"
