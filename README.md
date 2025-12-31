@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # Crud-Operations
 Create Read Update and Delete
 >>>>>>> 0e64fffd50b3cd8c5d790474f0713116f630abb2
+=======
+# Curd--Operations
+Create Read Update and Delete
+>>>>>>> 6afb31e3e25221d2042c25d8b9b4033319c04052
